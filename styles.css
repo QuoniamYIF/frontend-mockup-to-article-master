@@ -1,0 +1,36 @@
+/* add your CSS here */
+*{
+	margin: 0;
+	padding: 0;
+}
+h3 {
+	padding: 10px;
+}
+img {
+	width: 280px;
+	padding: 10px;
+}
+ul {
+	padding: 10px;
+}
+p {
+	padding: 10px;
+}
+span {
+	font-weight: 900;
+}
+li {
+	list-style: none;
+}
+#animal {
+	border: 1px solid #ccc;
+	width: 300px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px 0 #ccc;
+}
+#information {
+	border: 1px solid #ccc;	
+}
+.fact {
+	font-style: italic;
+}
